@@ -1,6 +1,6 @@
 /*
  * brazo.h
- * Funciones de alto nivel del brazo: demo y modo manual
+ * Funciones de alto nivel del brazo: demo y modo manual.
  */
 #ifndef BRAZO_H
 #define BRAZO_H
