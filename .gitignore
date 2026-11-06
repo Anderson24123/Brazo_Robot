@@ -1,0 +1,13 @@
+# Carpeta de compilacion de CMake
+build/
+
+# Objetos y binarios
+*.o
+*.a
+*.so
+brazo_robot
+
+# Archivos de VS Code / sistema
+.vscode/
+*.swp
+.DS_Store
