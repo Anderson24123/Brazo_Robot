@@ -15,8 +15,8 @@ extern volatile sig_atomic_t g_salir;
 int  brazo_iniciar(void);      /* inicia los servos */
 void brazo_cerrar(void);
 
-void brazo_home(void);         /* mueve suave a la posicion de reposo */
+void brazo_home(void);         /* mueve suavemente a la posicion de reposo */
 void brazo_demo(void);         /* rutina automatica */
-void brazo_manual(void);       /* control con teclado, paso en grados */
+void brazo_manual(void);       /* control con teclado, (paso en grados) */
 
 #endif

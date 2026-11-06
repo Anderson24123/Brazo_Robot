@@ -1,6 +1,6 @@
 /*
  * config.h
- * Configuracion general del brazo robot (pines, limites, tiempos).
+ * Configuracion general del brazo/robot (pines, limites, tiempos).
  * Todo lo que se tenga que ajustar sobre el armado fisico esta aqui.
  *
  *   Servo1 = base
